@@ -1,0 +1,6 @@
+@LectulandiaAPi_HostAddress = http://localhost:5164
+
+GET {{LectulandiaAPi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
